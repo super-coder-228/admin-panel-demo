@@ -1,5 +1,7 @@
 $(document).ready(function() {
-    alert("Предупреждаю. Скролл есть, но у него display: none");
+    setTimeout(function () {
+        alert("Предупреждаю. Скролл есть, но у него display: none");
+    }, 1000);
 
     var state = 0;
 
