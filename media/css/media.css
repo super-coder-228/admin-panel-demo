@@ -4,6 +4,7 @@
 @media (min-width: 0px) {
 	.footer {
 		margin-top: 8rem;
+		padding-bottom: 1rem;
 	}
 
 	.footer-quote {
